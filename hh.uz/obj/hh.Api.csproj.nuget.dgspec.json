@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.uz\\hh.Api.csproj": {}
+    "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.uz\\hh.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.uz\\hh.Api.csproj": {
+    "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.uz\\hh.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.uz\\hh.Api.csproj",
+        "projectUniqueName": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.uz\\hh.Api.csproj",
         "projectName": "hh.Api",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.uz\\hh.Api.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.uz\\obj\\",
+        "projectPath": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.uz\\hh.Api.csproj",
+        "packagesPath": "C:\\Users\\stoli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.uz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

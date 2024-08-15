@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479A1BD5-0CD7-483C-9AF7-E0DE58B8173F}|hh.Domain\\hh.Domain.csproj|c:\\users\\stoli\\onedrive\\desktop\\project\\hh\\hh.domain\\entities\\addresses\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A1BD5-0CD7-483C-9AF7-E0DE58B8173F}|hh.Domain\\hh.Domain.csproj|solutionrelative:hh.domain\\entities\\addresses\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A1BD5-0CD7-483C-9AF7-E0DE58B8173F}|hh.Domain\\hh.Domain.csproj|c:\\users\\stoli\\onedrive\\desktop\\project\\hh\\hh.domain\\commons\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A1BD5-0CD7-483C-9AF7-E0DE58B8173F}|hh.Domain\\hh.Domain.csproj|solutionrelative:hh.domain\\commons\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A1BD5-0CD7-483C-9AF7-E0DE58B8173F}|hh.Domain\\hh.Domain.csproj|c:\\users\\stoli\\onedrive\\desktop\\project\\hh\\hh.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A1BD5-0CD7-483C-9AF7-E0DE58B8173F}|hh.Domain\\hh.Domain.csproj|solutionrelative:hh.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Domain\\Commons\\Auditable.cs",
+              "RelativeDocumentMoniker": "hh.Domain\\Commons\\Auditable.cs",
+              "ToolTip": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Domain\\Commons\\Auditable.cs",
+              "RelativeToolTip": "hh.Domain\\Commons\\Auditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:48:58.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Domain\\Entities\\Addresses\\Address.cs",
+              "RelativeDocumentMoniker": "hh.Domain\\Entities\\Addresses\\Address.cs",
+              "ToolTip": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Domain\\Entities\\Addresses\\Address.cs",
+              "RelativeToolTip": "hh.Domain\\Entities\\Addresses\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:47:30.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "hh.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "hh.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:46:11.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
