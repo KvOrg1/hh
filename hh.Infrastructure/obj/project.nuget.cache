@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HzDaEBPMl/M=",
+  "dgSpecHash": "zfvo5a5cc3iJ3JquVQJLsaW8GLWlDFQJqDopLQPdChp7TsDkYPnj44cG9tEBtnvJCS2cFCxuH1V4kty8l23FZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.Infrastructure\\hh.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Infrastructure\\hh.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stoli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\stoli\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\stoli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

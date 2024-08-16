@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.Service\\hh.Service.csproj": {}
+    "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Service\\hh.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.Service\\hh.Service.csproj": {
+    "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Service\\hh.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.Service\\hh.Service.csproj",
+        "projectUniqueName": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Service\\hh.Service.csproj",
         "projectName": "hh.Service",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.Service\\hh.Service.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Рабочий стол\\hh\\hh\\hh.Service\\obj\\",
+        "projectPath": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Service\\hh.Service.csproj",
+        "packagesPath": "C:\\Users\\stoli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoli\\OneDrive\\Desktop\\project\\hh\\hh.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
